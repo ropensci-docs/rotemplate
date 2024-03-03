@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "864ebd0dca599744ab79d92d2531d0443e1c9892",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2023-12-04 18:06:45",
+    "files": 1,
+    "merge": false,
+    "message": "Switch to local mirror (rawgit seems dead)\n"
+  },
+  "repo": "https://github.com/ropensci-org/rotemplate",
+  "pkg": "rotemplate"
+}
