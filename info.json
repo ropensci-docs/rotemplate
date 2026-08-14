@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "4c36a4f9abf949150dc40703d28baee1568dd480",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2026-05-12T17:40:07Z",
+    "files": 1,
+    "merge": false,
+    "message": "Ignore customized css\n"
+  },
+  "repo": "https://github.com/ropensci-org/rotemplate",
+  "pkg": "rotemplate",
+  "time": "2026-08-14T18:45:17Z"
+}
